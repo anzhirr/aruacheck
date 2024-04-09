@@ -1,0 +1,16 @@
+https://api2.ivi.ru/mobileapi/catalogue/available/filters/v5/?app_version=870&category=15&fields=genres%2Ccountry%2Cyear_from%2Cyear_to%2Ccontent_paid_types%2Csubscription_names%2Csubtitles%2Clocalizations%2Clanguages%2Cqualities%2Civi_rating_10_gte&withpreorderable=1&year_from=2018&year_to=2018
+
+https://rocket.ivi.ru/event/
+
+https://api2.ivi.ru/mobileapi/billing/v2/subscriptions/info/?app_version=870&session=0b944ef66577871458221133_1728380394-0raOBhiVwSafRdmiMz4hSGw&session_data=eyJ1aWQiOjY1Nzc4NzE0NTgyMjExMzN9.ZhO7dA.W1mMGc4Ebonw6aiig-ZNvolIurU&user_ab_bucket=15535
+
+Логин: abcdtoporov@ivi.ru
+Пароль: 4q9CxBsWQEk1
+password=4q9CxBsWQEk1
+pass 4q9CxBsWQEk1
+
+Учетная запись от онлайн кинотеатра иви
+1234abcd@gmail.com
+FABhjLJ93qLY
+
+api_token=SldYQTUyOUNVMnE3VWR2N3Izamk2QkVNc2hhLue5dTBLcVUzeXZLdGYtNkkrVFUyQUVRQUNLQUFCSWdwRUlJTQ==
